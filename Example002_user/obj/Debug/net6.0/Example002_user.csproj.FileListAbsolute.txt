@@ -1,0 +1,5 @@
+C:\Users\Asus\Dropbox\GBrains\Temp\C##\C_lesson1\Examples\Example002_user\obj\Debug\net6.0\Example002_user.csproj.AssemblyReference.cache
+C:\Users\Asus\Dropbox\GBrains\Temp\C##\C_lesson1\Examples\Example002_user\obj\Debug\net6.0\Example002_user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Dropbox\GBrains\Temp\C##\C_lesson1\Examples\Example002_user\obj\Debug\net6.0\Example002_user.AssemblyInfoInputs.cache
+C:\Users\Asus\Dropbox\GBrains\Temp\C##\C_lesson1\Examples\Example002_user\obj\Debug\net6.0\Example002_user.AssemblyInfo.cs
+C:\Users\Asus\Dropbox\GBrains\Temp\C##\C_lesson1\Examples\Example002_user\obj\Debug\net6.0\Example002_user.csproj.CoreCompileInputs.cache
